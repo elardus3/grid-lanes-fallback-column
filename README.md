@@ -1,11 +1,11 @@
 # CSS grid-lanes with column fallback
 
-[Shows](https://elardus3.github.io/grid-lanes-fallback-column/) a masonry or waterfall type
-layout with dynamic element heights.
+[Shows](https://elardus3.github.io/grid-lanes-fallback-column/) a masonry or waterfall type layout with dynamic element heights.
 
 ![Grid-lanes screenshot](image/screenshot-grid-lanes.webp)
 
 As on October 2026 only Safari supports grid-lanes.
+See [Can I Use](https://caniuse.com/css-grid-lanes) for up-to-date browser support.
 
 ![Supports screenshot](image/screenshot-supports.avif)
 
